@@ -9,6 +9,10 @@ I want more people to be able to get in the fishing community but it can be daun
 ## How to Run
 The necessary code "fishing catalog1.1.0" and a .txt file named wishlist.
 
+[Terminal]
+
+[Wishlist.txt]
+
 ## Code Example
 Here is a sample of how the code will help users understand what the product is, how to use it, and how much it might cost.
 
